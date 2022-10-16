@@ -1,6 +1,13 @@
 # Writeups
 
 
-# Chaining File Upload with other bugs
+# Chaining File Upload
+
 
 # Reports
+
+
+# Misc
+
+https://imagepayload.jc01.ninja/
+
